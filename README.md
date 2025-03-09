@@ -3,14 +3,19 @@ El reto consiste en hacer una pagina web que sorte nombres que nos escriba el us
 En este proyecto se uso HTML, CSS y JavaScript.
 
 
-## Funcionamiento de la web
 
-La web nos resive con este lindo menu. Agregamos los nombres de neustros amigos que queramos sortear, depsues pulsamos en el boton "Añadir" para que este amigo aparexca en la parte de abajo en la lista. 
+##🌟 ¿Cómo funciona?
+
+Al ingresar, serás recibido con un menú intuitivo y fácil de usar. Solo sigue estos pasos:
+
+1️⃣ Agrega los nombres de tus amigos en la caja de texto. Puedes escribir tantos nombres como quieras para incluir a todos en el sorteo.
+2️⃣ Presiona el botón "Añadir", y cada amigo se irá sumando a la lista en la parte inferior.
+
   ![Agregamos los nombres que queramos](https://github.com/Isa-Rocha31415/Amigo-Secreto/blob/main/img/imagen1.png)
 
-  Despues damos click en el boton naranja "Sortear amigos" y como podemos observar en la imagenm ¡Nos dira nuestro amigo Secreto!
-  ![Amigo secreto](https://github.com/Isa-Rocha31415/Amigo-Secreto/blob/main/img/imagen2.png)
+3️⃣ Una vez que todos los nombres estén en la lista. Solo haz clic en el gran botón naranja "Sortear amigos", y en un instante, la web revelará quién es tu amigo secreto.  
+![Amigo secreto](https://github.com/Isa-Rocha31415/Amigo-Secreto/blob/main/img/imagen2.png)
 
-  ## Posibles Errores
-  Si no pusimos ningun nombre en la caja y le dimso click en el boton "Añadir" nos aaarecera una advertencia.
+ ## ⚠️ Posibles errores y advertencias
+  Si no pusimos ningun nombre en la caja y le dimso click en el boton "Añadir" saldra una advertencia que te recordará que debes completar el campo antes de continuar.
   ![Advertencia](https://github.com/Isa-Rocha31415/Amigo-Secreto/blob/main/img/imagen3.png)
