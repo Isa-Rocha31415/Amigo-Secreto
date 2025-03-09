@@ -3,8 +3,8 @@ El reto consiste en hacer una pagina web que sorte nombres que nos escriba el us
 En este proyecto se uso HTML, CSS y JavaScript.
 
 
-
  ## 🌟 ¿Cómo funciona?
+ Ingresa a la pagina web [Amigo Secreto](https://isa-rocha31415.github.io/Amigo-Secreto.io/)
 
 Al ingresar, serás recibido con un menú intuitivo y fácil de usar. Solo sigue estos pasos:
 
